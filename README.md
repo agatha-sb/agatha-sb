@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swagata Bose</h1>
 <h3 align="center">A passionate Frontend Developer from India, with 10 months of hands-on experience.</h3>
 
-
+[![](https://visitcount.itsvg.in/api?id=agatha-sb&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agatha-sb" alt="agatha-sb" /></a> </p>
 
